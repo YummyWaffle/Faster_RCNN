@@ -1,0 +1,1 @@
+from .voc_loader import faster_rcnn_loader
